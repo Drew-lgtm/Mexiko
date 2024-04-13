@@ -1,2 +1,2 @@
 # Mexiko
-Project moved to _PyGameStuff_
+Project moved to _PyGameStuff_ repository.
